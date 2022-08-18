@@ -1,0 +1,12 @@
+What’s the difference between Window and Document?
+  window:
+     =>the window object is the JavaScript Global object. 
+     =>The window object represents the browser window. 
+     =>The window object has many useful properties like 
+       the location object and the setTimeout function.
+
+ document:
+     =>he document object is a property of the window object.
+     =>The document object represents the HTML document loaded in that window.
+
+
